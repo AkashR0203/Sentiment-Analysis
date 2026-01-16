@@ -12,3 +12,4 @@ A simple and interactive web application to perform sentiment analysis on Englis
 1. Install dependencies:
    ```bash
    pip install -r requirements.txts
+   streamlit run app.py

@@ -1,6 +1,6 @@
 # Sentiment Analysis Web App 🧠
 
-A simple and interactive web application to perform sentiment analysis on English text using the VADER (Valence Aware Dictionary and sEntiment Reasoner) library.
+A simple and interactive web application to perform sentiment analysis on English text using the VADER (Valence Aware Dictionary and Sentiment Reasoner) library.
 
 ## Features
 - **Single Text Analysis**: Enter any English text and get instant sentiment (Positive/Negative/Neutral) with detailed scores.
